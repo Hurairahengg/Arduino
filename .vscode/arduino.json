@@ -1,6 +1,0 @@
-{
-    "board": "arduino:avr:uno",
-    "programmer": "avrispmkii",
-    "port": "COM4",
-    "sketch": "analogjoystick.ino\\analogjoystick.ino.ino"
-}
